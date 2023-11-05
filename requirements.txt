@@ -1,0 +1,6 @@
+requests
+xlwt
+selenium
+beautifulsoup4
+time
+json
