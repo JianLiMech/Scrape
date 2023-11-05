@@ -21,5 +21,5 @@
 3. [动态网站-以测试平台为例，演示如何登录](testbetter.py)
 
 
-### pip安装包
+### pip安装库文件
 pip install -r requirements.txt
