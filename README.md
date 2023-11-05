@@ -13,18 +13,11 @@
 
 伪元素反爬机制的介绍：https://bbs.huaweicloud.com/blogs/399726 
 
-python优点：
-灵活度高，可以根据自己的需求爬取网页包含的所有信息
-可靠性较高，爬取信息比较准确
-网上可参考信息多
-python缺点：
-需要一定的python知识和html等网页相关知识
-目前大多数python代码仅支持本地运行
 
 Python代码说明：
-汽车之家-汽车品牌，型号及价格信息：autotypes.py   
 
-汽车之家-汽车型号及配置信息： autoparamater.py （会有错位的问题）
+1. 汽车之家-汽车品牌，型号及价格信息：autotypes.py   
 
+2. 汽车之家-汽车型号及配置信息： autoparamater.py （会有错位的问题）
 
-动态网站-以测试平台为例，演示如何登录：testbetter.py
+3. 动态网站-以测试平台为例，演示如何登录：testbetter.py
